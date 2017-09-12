@@ -1,4 +1,3 @@
-# LASSO_Model
 # Problem statement:
 Using demographic (city, gender, age) and affinity categories (e.g., auto enthusiast, tech, etc.) from Google Analytics can we predict which covariates have a stronger impact on the reserve button.
 
